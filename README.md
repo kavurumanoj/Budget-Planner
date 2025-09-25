@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+Budget Planner project
 
 ## Project info
 
